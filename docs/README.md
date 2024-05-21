@@ -23,7 +23,7 @@ organs to age-related degeneration.
 **About**
 This project represent the first characterization of CMA activity along aging in different tissues, accounting for cell type variability and specificity. The CMA aging atlas is comprised by scRNA and inmunofluorescence data. The scRNA data was obtained upon analysis of the well documented repository on aging at the sigle cell level known as [Tabula muris](https://github.com/czbiohub/tabula-muris). 
 
-[**Download interactive CMA activity figure in young animals.**](./Sum_figs/) 
+[**Download interactive CMA activity figure in young animals.**](https://amsegura.github.io/Khawaja_et_al_2024/)
 
 
 
