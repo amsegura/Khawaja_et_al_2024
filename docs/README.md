@@ -1,6 +1,6 @@
 # Sex- and cell type-specific loss of chaperone-mediated autophagy across tissues with aging
 
-**Abstract**
+### Abstract
 Aging is associated with a progressive decline in organ and tissue integrity that eventually leads
 to functional impairment. Loss of proteostasis and autophagy malfunctioning are major hallmarks
 of aging and contribute to accelerated progression of multiple age-related diseases. The activity
@@ -20,12 +20,14 @@ downregulation of CMA regulatory genes also contributes to some of the observed 
 CMA. The uncovered differential impact of aging on CMA may underlie differential vulnerability of
 organs to age-related degeneration.
 
-**About**
+### About
 This project represent the first characterization of CMA activity along aging in different tissues, accounting for cell type variability and specificity. The CMA aging atlas is comprised by scRNA and inmunofluorescence data. The scRNA data was obtained upon analysis of the well documented repository on aging at the sigle cell level known as [Tabula muris](https://github.com/czbiohub/tabula-muris). 
 
-<iframe src="https://amsegura.github.io/Khawaja_et_al_2024/CMA_param.html" width="1300" height="1300"></iframe>
+### CMA activity on individual cells
+This image represent the level of CMA activity in different cell types at single cell level. It is a UMAP representation based on cell type markers. The color code represents CMA activity calculated from immunofluorescence images cuantification.
+<iframe src="https://amsegura.github.io/Khawaja_et_al_2024/CMA_param.html" width="1300" height="1000"></iframe>
 
-## [**LINK TO CMA ACTIVITY FIGURE IN YOUNG ANIMALS**](https://amsegura.github.io/Khawaja_et_al_2024/CMA_param.html)
+## [**LINK TO GITHUB REPOSITORY**]([https://github.com/amsegura/Khawaja_et_al_2024))
 
 
 
