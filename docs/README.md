@@ -27,7 +27,7 @@ This project represent the first characterization of CMA activity along aging in
 This image represent the level of CMA activity in different cell types at single cell level. It is a UMAP representation based on cell type markers. The color code represents CMA activity calculated from immunofluorescence images cuantification.
 <iframe src="https://amsegura.github.io/Khawaja_et_al_2024/CMA_param.html" width="1300" height="1000"></iframe>
 
-## [**LINK TO GITHUB REPOSITORY**]([https://github.com/amsegura/Khawaja_et_al_2024))
+## [**LINK TO GITHUB REPOSITORY**]([https://github.com/amsegura/Khawaja_et_al_2024)
 
 
 
